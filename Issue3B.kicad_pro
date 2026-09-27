@@ -90,10 +90,6 @@
           ""
         ],
         [
-          "clearance|146593800|28448000|452e102b-050c-48f7-a3e9-b059506ad266|5514f4e5-7cb3-4759-9135-6c20ab5866d5",
-          ""
-        ],
-        [
           "clearance|160053900|53340000|42cf4840-5201-46e2-b9de-aced874d60e6|f1049a47-fb96-4532-a19e-96808678b9c8",
           ""
         ],
@@ -118,23 +114,7 @@
           ""
         ],
         [
-          "clearance|209804000|42672000|370e64f8-7ffb-4b37-91d4-15e11ea53755|96ff2289-fd0d-47cb-8cb0-62bf66a28cb2",
-          ""
-        ],
-        [
-          "clearance|209804000|42672000|7f288315-73d5-4e44-bdd0-ed96d88f9c42|96ff2289-fd0d-47cb-8cb0-62bf66a28cb2",
-          ""
-        ],
-        [
           "clearance|8636000|91882000|4e201905-2c9f-4ab2-bbce-aa89921aaec4|6fe26334-18b1-4807-a29f-715e1d6cbd24",
-          ""
-        ],
-        [
-          "clearance|90170000|66548000|a9e8e216-044c-4d45-9fd2-a492ef39210b|dd801188-6fd8-4b7a-80cd-a5a074dc4083",
-          ""
-        ],
-        [
-          "clearance|90170000|66548000|a9e8e216-044c-4d45-9fd2-a492ef39210b|e0721a69-4f0b-4894-831b-b91c1875ad5c",
           ""
         ],
         [
@@ -944,12 +924,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

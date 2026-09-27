@@ -4,6 +4,14 @@ KiCAD created files for the ZX Spectrum 48K Issue 3B designed by Sinclair Resear
 
 Original Gerbers by PABB downloadable via PCBWay.
 
+
+![image](./Issue3B-UnPopulated.png "Unpopulated PCB")
+
+![image](./Issue3B-NoHeatsink.png "Populated PCB No Heatsink")
+
+![image](./Issue3B-WithHeatsink.png "Populated PCB With Heatsink")
+
+
 See https://www.pcbway.com/project/shareproject/ZX_Spectrum_48_Issue_3B_Redrawn.html
 
 Only the gerbers are available on PCBWay. No Schematic.
